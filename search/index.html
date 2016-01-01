@@ -87,13 +87,11 @@
 	
 	
 	<section class="info">
-		<p> Hello, I&#39;m elvishpanda. This is my blog on Github. <br/>
-			To be a Better Man.</p>
+		<p> hi, I&#39;m elvishpanda.  <br/>
+			This is my blog on Github.</p>
 	</section>
 	 
 	<div class="social-font" class="clearfix">
-		
-		<a href="http://weibo.com/xchen1107" target="_blank" class="icon-weibo" title="微博"></a>
 		
 		
 		<a href="https://github.com/elvishpanda" target="_blank" class="icon-github" title="github"></a>
@@ -242,6 +240,35 @@ var _hmt = _hmt || [];
 
 <!-- MathJax Begin -->
 <!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
 
 
 <!-- MathJax End -->
