@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[elvishPanda's blog]]></title>
+  <subtitle><![CDATA[Never Too Late. Walk steps step by step.]]></subtitle>
+  <link href="/atom.xml" rel="self"/>
+  <link href="http://elvishpanda.github.io/"/>
+  <updated>2016-01-01T04:35:34.564Z</updated>
+  <id>http://elvishpanda.github.io/</id>
+  
+  <author>
+    <name><![CDATA[elvishPanda]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[Hello World]]></title>
+    <link href="http://elvishpanda.github.io/2016/01/01/hello-world/"/>
+    <id>http://elvishpanda.github.io/2016/01/01/hello-world/</id>
+    <published>2016-01-01T08:26:28.732Z</published>
+    <updated>2016-01-01T04:35:34.564Z</updated>
+    <content type="html"><![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="http://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick_Start"><a href="#Quick_Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create_a_new_post"><a href="#Create_a_new_post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run_server"><a href="#Run_server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate_static_files"><a href="#Generate_static_files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy_to_remote_sites"><a href="#Deploy_to_remote_sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+<p>More info: <a href="http://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>Welcome to <a href="http://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="http://hexo.io]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[我的第一篇博文]]></title>
+    <link href="http://elvishpanda.github.io/2016/01/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E6%96%87/"/>
+    <id>http://elvishpanda.github.io/2016/01/01/我的第一篇博文/</id>
+    <published>2016-01-01T08:15:06.000Z</published>
+    <updated>2016-01-01T08:26:45.288Z</updated>
+    <content type="html"><![CDATA[<h2 id="1_u3001_u524D_u8FF0"><a href="#1_u3001_u524D_u8FF0" class="headerlink" title="1、前述"></a>1、前述</h2><p><strong>用hexo搭建的博客，用github发布静态网页。</strong><br><a id="more"></a></p>
+<pre><code>&quot;hello blog.&quot;
+</code></pre><p><em>前端代码很有意思，有好多东西需要学习。</em></p>
+<h2 id="2_u3001_u6B63_u6587"><a href="#2_u3001_u6B63_u6587" class="headerlink" title="2、正文"></a>2、正文</h2><h2 id="3_u3001_u5B9E_u73B0"><a href="#3_u3001_u5B9E_u73B0" class="headerlink" title="3、实现"></a>3、实现</h2><h2 id="4_u3001_u603B_u7ED3"><a href="#4_u3001_u603B_u7ED3" class="headerlink" title="4、总结"></a>4、总结</h2>]]></content>
+    <summary type="html">
+    <![CDATA[<h2 id="1_u3001_u524D_u8FF0"><a href="#1_u3001_u524D_u8FF0" class="headerlink" title="1、前述"></a>1、前述</h2><p><strong>用hexo搭建的博客，用github发布静态网页。</strong><br>]]>
+    
+    </summary>
+    
+      <category term="C++" scheme="http://elvishpanda.github.io/tags/C/"/>
+    
+      <category term="Java" scheme="http://elvishpanda.github.io/tags/Java/"/>
+    
+      <category term="Linux内核" scheme="http://elvishpanda.github.io/tags/Linux%E5%86%85%E6%A0%B8/"/>
+    
+      <category term="心情" scheme="http://elvishpanda.github.io/tags/%E5%BF%83%E6%83%85/"/>
+    
+      <category term="操作系统" scheme="http://elvishpanda.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+      <category term="算法" scheme="http://elvishpanda.github.io/tags/%E7%AE%97%E6%B3%95/"/>
+    
+      <category term="网络" scheme="http://elvishpanda.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    
+      <category term="测试文章发布" scheme="http://elvishpanda.github.io/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/"/>
+    
+      <category term="test" scheme="http://elvishpanda.github.io/categories/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0%E5%8F%91%E5%B8%83/test/"/>
+    
+  </entry>
+  
+</feed>
