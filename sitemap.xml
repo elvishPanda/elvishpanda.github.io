@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://elvishpanda.github.io/hdu/index.html</loc>
+    <lastmod>2016-01-01T12:38:10.749Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://elvishpanda.github.io/search/index.html</loc>
     <lastmod>2016-01-01T09:31:09.922Z</lastmod>
   </url>
